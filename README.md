@@ -1,1 +1,3 @@
-# app-web-anki-plugin
+# architecture
+
+![overview](./docs/diagrams/overview.jpg)
