@@ -260,6 +260,6 @@ Project Link: [https://github.com/jingyangzhenren/app-web-anki-plugin](https://g
 [build-shield]: https://img.shields.io/github/actions/workflow/status/jingyangzhenren/app-web-anki-plugin/build.yml?branch=main&style=for-the-badge
 [build-url]: https://example.com
 [coverage-shield]: https://img.shields.io/sonar/coverage/app-web-anki-plugin/main?server=sonar.jingyangzhenren.com&style=for-the-badge
-[coverage-url]: https://example.com
+[coverage-url]: https://sonar.jingyangzhenren.com
 [tests-shield]: https://img.shields.io/sonar/tests/app-web-anki-plugin/main?compact_message&server=https%3A%2F%2Fsonarqube.jingyangzhenren&style=for-the-badge
-[tests-url]: https://example.com
+[tests-url]: https://sonar.jingyangzhenren.com
