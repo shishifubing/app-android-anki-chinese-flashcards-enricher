@@ -1,25 +1,29 @@
-# [`app-android-anki-chinese-flashcards-enricher`][repo-url]
+<div align="center" markdown="1">
 
-<!-- shields -->
+# [`app-android-anki-chinese-flashcards-enricher`][url-repo]
 
-[![AGPLv3.0 License][license-shield]][license-url]
-
-<!-- description -->
+[![License][shield-license]][url-license]
 
 Andoird app I plan to make
 
-![overview](./docs/diagrams/overview.jpg)
+</div>
+
+# About The Project
+
+![overview]
 
 
 <!-- relative links -->
 
+[overview]: ./docs/diagrams/overview.jpg
+
 <!-- project links -->
 
-[repo-url]: https://github.com/shishifubing/app-android-anki-chinese-flashcards-enricher
-[license-url]: https://github.com/shishifubing/app-android-anki-chinese-flashcards-enricher/blob/main/LICENSE
+[url-repo]: https://github.com/shishifubing/app-android-anki-chinese-flashcards-enricher
+[url-license]: https://github.com/shishifubing/app-android-anki-chinese-flashcards-enricher/blob/main/LICENSE
 
 <!-- external links -->
 
 <!-- shield links -->
 
-[license-shield]: https://img.shields.io/github/license/shishifubing/app-android-anki-chinese-flashcards-enricher.svg?style=for-the-badge
+[shield-license]: https://img.shields.io/github/license/shishifubing/app-android-anki-chinese-flashcards-enricher.svg?style=for-the-badge
