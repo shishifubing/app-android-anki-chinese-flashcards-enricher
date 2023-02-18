@@ -4,7 +4,7 @@
 
 [![License][shield-license]][url-license]
 
-Andoird app I plan to make
+Android app I plan to make
 
 </div>
 
