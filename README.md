@@ -8,7 +8,9 @@ Android app I plan to make
 
 </div>
 
-# About The Project
+## About The Project
+
+### Architecture diagram
 
 ![overview]
 
